@@ -10,7 +10,7 @@ The docker-compose file contains the API container and a Mongo database containe
 
 ## Installing
 
-* Setup docker conteiners
+* Setup docker containers
 
  1. Configure .env file if necessary
 
